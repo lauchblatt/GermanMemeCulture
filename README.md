@@ -7,7 +7,7 @@ At the moment you'll find the metadata and OCRed text of a corpus of memes from 
 This corpus was collected and is hosted by:
 <ul>
 <li><a href="https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/thomas-schmidt/index.html">Thomas Schmidt</a></li>
-<li><a href="https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/jakob-fehle/index.html">Jakob Fehle</a><</li>
+<li><a href="https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/jakob-fehle/index.html">Jakob Fehle</a></li>
 <li>Laurin Rolny</li>
 <li>Tien Julian Ho</li>
 </ul>
